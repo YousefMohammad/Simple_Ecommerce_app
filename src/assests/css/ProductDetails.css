@@ -1,0 +1,22 @@
+.product-card .d-img {
+    width: 30%;
+    float: left;
+}
+.product-card .d-title {
+    /* float: right; */
+    text-align: center;
+    font-weight: 600;
+    font-size: x-large;
+}
+
+.card-body .product-description{
+    width: 67%;
+    text-align: center;
+    float: right;
+    margin-top: 2em;
+    }
+
+.card-body .product-price {
+    font-weight: 500;
+    font-size: 2em;
+}

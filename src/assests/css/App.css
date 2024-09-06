@@ -1,0 +1,26 @@
+:root {
+  --white: #fff;
+  --black: #161616f7;
+  --main-font: monospace
+}
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  outline: none;
+}
+
+body{
+  background-color: var(--white);
+}
+
+.App {
+  text-align: center;
+}
+
+.App h1{
+  color: var(--black);
+  margin: 1em;
+  font-family: monospace;
+}
