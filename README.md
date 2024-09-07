@@ -7,8 +7,6 @@ This is a dynamic e-commerce platform built with modern web technologies. The si
 - **Browse Products**: Explore a wide range of products across different categories.
 - **Filter by Category**: Easily find products by filtering them according to specific categories.
 - **Product Details**: View detailed information about each product, including images, descriptions, and pricing.
-- **Add to Cart**: Add desired products to the shopping cart for purchase.
-- **Checkout**: Complete the purchase by providing shipping information and payment details.
 
 ## Installation
 
